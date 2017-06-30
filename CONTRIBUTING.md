@@ -1,1 +1,3 @@
-Sergio & David
+## Authors
+
+Sergio y David.
