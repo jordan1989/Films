@@ -1,6 +1,6 @@
 # Films Project
 
-The purpose of the project is to learn from scratch HTML & CSS.
+The purpose of the project is to learn from scratch HTML / CSS & Git.
 
 ## Authors
 
