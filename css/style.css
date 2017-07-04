@@ -1,3 +1,11 @@
 .blue-text {
     color: #0080FF;
 }
+
+.txt-big{
+    font-size: 2em;
+}
+
+.desaparecer{
+    display:none;
+}
